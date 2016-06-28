@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Summit Day One
 layout: post
 author:
