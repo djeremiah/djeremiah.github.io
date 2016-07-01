@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Summit Day Four
 layout: post
 author:
@@ -15,5 +15,4 @@ Wednesday started with the traditional Summit 5k. I don't run as often as I woul
 
 Thursday (today) is the last official day of Summit. There are a few wrap-up things in the morning, but ultimately it's just "fly home" day for me. Since i'm headed east, that means that all the extra time I picked up on Monday is going to go away. I was lucky enough to sit down today with Mark Proctor, Kris Verlaenen, Mario Fusco and Duncan Doyle to discus some of the present and future direction for Drools and jBPM. I'm particularly excited about the things they're working on to help package and share extensions for the authoring and runtime environments.
 
-Today was also the day Anurag Saran, [Sal Elrahal](http://salemelrahal.org) and I gave our session on integrating big data and business rules/proccesses. I'll save a deeper writeup of the session for a later date, but it was a great experience and I hope to be back at Summit next year to present again. 
-
+Today was also the day Anurag Saran, [Sal Elrahal](http://salemelrahal.org) and I gave our session on integrating big data and business rules/proccesses. I'll save a deeper writeup of the session for a later date, but it was a great experience and I hope to be back at Summit next year to present again.
