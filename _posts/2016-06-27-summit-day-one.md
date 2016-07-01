@@ -8,7 +8,7 @@ author:
 
 
 # Welcome to Red Hat Summit
-Day one at Summmit is always a doozy. This year, Summit is being held in San Francisco. For me, this means a cross-country flight, a ride on the BART, and a quick trip to the Hotel to drop off my things before the day even really "starts".
+Day one at Summit is always a doozy. This year, Summit is being held in San Francisco. For me, this means a cross-country flight, a ride on the BART, and a quick trip to the Hotel to drop off my things before the day even really "starts".
 
 This year I'm attending both DevNation and Summit. Unfortunately, I missed the DevNation opening keynote. Fortunately, it was [recorded](https://youtu.be/nxnIpgHQ-Gw) so I can sit down and watch it later. One thing I'm looking forward to is the announcement of .NET on RHEL. More on that below.
 
