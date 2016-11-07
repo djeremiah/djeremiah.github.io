@@ -15,5 +15,6 @@ We are able to alter this value by setting the "Process Instance Description" pr
 ![Process Instance Description field in Process Editor]({{site.baseurl}}/images/process-instance-description-property.png){:width="800px"}
 
 Note that the syntax here is `#{variable name}`.
+
 The result is our custom decription appearing in the process instance list.
 ![Custom process description shows in instance list]({{site.baseurl}}/images/custom-process-description.png){:width="800px"}
