@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+author:
+  name: Murph
 ---
 # Including Process Variables in Process Descriptions in BPMS 6.3
 
@@ -14,6 +17,3 @@ We are able to alter this value by setting the "Process Instance Description" pr
 Note that the syntax here is `#{variable name}`.
 The result is our custom decription appearing in the process instance list.
 ![Custom process description shows in instance list]({{site.baseurl}}/_images/custom-process-description.png)
-
-
-
