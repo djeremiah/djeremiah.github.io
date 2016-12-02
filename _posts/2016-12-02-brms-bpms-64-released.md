@@ -8,9 +8,10 @@ author:
 # Red Hat JBoss BRMS and BPM Suite 6.4 GA Released
 
 ### Download Links:
+JBoss BRMS 6.4 - [download](https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=brms&downloadType=distributions)
+
 JBoss BPM Suite 6.4 - [download](https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=bpm.suite&downloadType=distributions)
 
-JBoss BRMS 6.4 - [download](https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?product=brms&downloadType=distributions)
 
 ### Supported Configurations:
 BRMS - [https://access.redhat.com/articles/705183](https://access.redhat.com/articles/705183)
@@ -18,14 +19,14 @@ BRMS - [https://access.redhat.com/articles/705183](https://access.redhat.com/art
 BPMS - [https://access.redhat.com/articles/704703](https://access.redhat.com/articles/704703)
 
 ### Documentation:
-JBoss BPM Suite 6.4 - [https://access.redhat.com/site/documentation/Red_Hat_JBoss_BPM_Suite/](https://access.redhat.com/site/documentation/Red_Hat_JBoss_BPM_Suite/)
+BRMS - [https://access.redhat.com/site/documentation/Red_Hat_JBoss_BRMS/](https://access.redhat.com/site/documentation/Red_Hat_JBoss_BRMS/)
 
-JBoss BRMS Suite 6.4 - [https://access.redhat.com/site/documentation/Red_Hat_JBoss_BRMS/](https://access.redhat.com/site/documentation/Red_Hat_JBoss_BRMS/)
+BPMS - [https://access.redhat.com/site/documentation/Red_Hat_JBoss_BPM_Suite/](https://access.redhat.com/site/documentation/Red_Hat_JBoss_BPM_Suite/)
 
 ### Web Pages:
-BRMS: [http://www.redhat.com/en/technologies/jboss-middleware/business-rules](http://www.redhat.com/en/technologies/jboss-middleware/business-rules)
+BRMS - [http://www.redhat.com/en/technologies/jboss-middleware/business-rules](http://www.redhat.com/en/technologies/jboss-middleware/business-rules)
 
-BPM Suite: [http://www.redhat.com/en/technologies/jboss-middleware/bpm](http://www.redhat.com/en/technologies/jboss-middleware/bpm)
+BPMS - [http://www.redhat.com/en/technologies/jboss-middleware/bpm](http://www.redhat.com/en/technologies/jboss-middleware/bpm)
 
 
 ### Notable updates in 6.4 release:
