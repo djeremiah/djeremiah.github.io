@@ -1,4 +1,5 @@
 ---
+title: BRMS/BPMS 6.4 Released
 published: true
 layout: post
 author:
