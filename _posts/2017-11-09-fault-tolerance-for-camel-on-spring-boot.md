@@ -1,6 +1,9 @@
 ---
 published: false
 title: Fault Tolerance for Camel on Spring Boot
+layout: post
+author:
+  name: Murph
 ---
 ## A New Post
 
