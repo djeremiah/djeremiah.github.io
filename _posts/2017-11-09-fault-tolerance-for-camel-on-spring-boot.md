@@ -1,5 +1,6 @@
 ---
 published: false
+title: Fault Tolerance for Camel on Spring Boot
 ---
 ## A New Post
 
